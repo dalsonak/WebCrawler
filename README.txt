@@ -1,10 +1,13 @@
-1) WebCrawler Æú´õ import
+Bithumb.com ì—ì„œ ì •ë³´ë¥¼ í¬ë¡¤ë§í•˜ëŠ” í”„ë¡œê·¸ë¨ì…ë‹ˆë‹¤.
+
+
+1) WebCrawler í´ë” import
 
 2)
-WebCrawlerÀÇ build path - Libraries ¿¡
-lib Æú´õÀÇ selenium-java-3.13.0 ¾ÈÀÇ ¸ğµç ÆÄÀÏ°ú
-lib Æú´õÀÇ jsoup-1.11.3.jar, sqlite-jdbc-3.23.1.jarÀ» Ãß°¡
+WebCrawlerì˜ build path - Libraries ì—
+lib í´ë”ì˜ selenium-java-3.13.0 ì•ˆì˜ ëª¨ë“  íŒŒì¼ê³¼
+lib í´ë”ì˜ jsoup-1.11.3.jar, sqlite-jdbc-3.23.1.jarì„ ì¶”ê°€
 
-3) WebCrawlerÀÇ build path - Source ¿¡ WebCrawler/libÀÌ ¾ø´Ù¸é Ãß°¡
+3) WebCrawlerì˜ build path - Source ì— WebCrawler/libì´ ì—†ë‹¤ë©´ ì¶”ê°€
 
-4) CrawlerMain¿¡¼­ ½ÇÇà
+4) CrawlerMainì—ì„œ ì‹¤í–‰
